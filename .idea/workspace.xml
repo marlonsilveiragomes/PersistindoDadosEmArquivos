@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdf47e50-9cf8-4442-b612-1014cc59c83b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersistindoDadosExercicio2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio4/ProgramaPrincipalVeiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio4/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Titulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio1/GravacaoArquivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio2e3/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio2e3/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +35,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GravacaoArquivo.executor": "Run",
     "Application.Programa.executor": "Run",
     "Application.ProgramaPrincipalVeiculo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/marlo/Downloads/gson-2.11.0.jar",
+    "last_opened_file_path": "C:/Users/marlo/IdeaProjects/ExerciciosPresistindoDadosEmArquivos",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
